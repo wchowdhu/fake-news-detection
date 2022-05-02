@@ -5,7 +5,7 @@ The goal of this project is to implement a machine learning model able to determ
 
 ## Install
 
-The project requires Python 3.6 and the following Python libraries installed   
+The project requires latest Python version and the following Python libraries installed   
   - [numpy](https://numpy.org/)
   - [pandas](https://pandas.pydata.org/)
   - [scikit-learn](https://scikit-learn.org/stable/)
